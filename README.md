@@ -1,4 +1,4 @@
-# React Router v7 with Better auth.
+# cf React Router v7 with Better auth.
 
 This template features React Router v7, Better auth, Drizzle ORM, and D1, designed for deployment on Cloudflare Workers.
 
