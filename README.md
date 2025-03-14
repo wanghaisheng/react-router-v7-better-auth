@@ -19,7 +19,7 @@ This template features React Router v7, Better auth, Drizzle ORM, and D1, design
 ## Links
 
 React Router v7 Authentication Demo Series:
-- [React Router v7 with Better Auth](https://github.com/foxlau/react-router-v7-better-auth) - Authentication demo using Better Auth package
+- [React Router v7 Cloudflare workers template](https://github.com/foxlau/react-router-v7-cloudflare-workers) - React Router v7 Cloudflare workers template.
 - [React Router v7 with Remix Auth](https://github.com/foxlau/react-router-v7-remix-auth) - Multi-strategy authentication demo using Remix Auth
 
 ## Getting Started
@@ -38,6 +38,7 @@ npm install
 Run an initial database migration:
 
 ```bash
+cp .dev.vars.example .dev.vars
 npm run db:apply
 ```
 
